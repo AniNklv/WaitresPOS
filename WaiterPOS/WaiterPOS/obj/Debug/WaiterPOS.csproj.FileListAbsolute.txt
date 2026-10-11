@@ -1,0 +1,18 @@
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\bin\Debug\WaiterPOS.exe.config
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\bin\Debug\WaiterPOS.exe
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\bin\Debug\WaiterPOS.pdb
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.exe
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.pdb
+C:\Users\A\Desktop\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.exe.config
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\bin\Debug\WaiterPOS.exe.config
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\bin\Debug\WaiterPOS.exe
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\bin\Debug\WaiterPOS.pdb
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.exe.config
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.exe
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.pdb
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.Form1.resources
+C:\Users\A\Desktop\University\7 semestur\Вив на софтуер\ИИ К ген\WaiterPOS\WaiterPOS\obj\Debug\WaiterPOS.csproj.GenerateResource.cache
